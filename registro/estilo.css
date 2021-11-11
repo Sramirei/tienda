@@ -1,0 +1,44 @@
+body {
+
+    background: url(fondo4.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+    
+    }
+
+    .modal-content {
+        background: rgba(7,151,187,1);
+        background: -moz-linear-gradient(left, rgba(7,151,187,1) 0%, rgba(7,151,187,1) 13%, rgba(6,123,162,1) 57%, rgba(6,123,162,1) 75%, rgba(6,123,162,1) 100%);
+        background: -webkit-gradient(left top, right top, color-stop(0%, rgba(7,151,187,1)), color-stop(13%, rgba(7,151,187,1)), color-stop(57%, rgba(6,123,162,1)), color-stop(75%, rgba(6,123,162,1)), color-stop(100%, rgba(6,123,162,1)));
+        background: -webkit-linear-gradient(left, rgba(7,151,187,1) 0%, rgba(7,151,187,1) 13%, rgba(6,123,162,1) 57%, rgba(6,123,162,1) 75%, rgba(6,123,162,1) 100%);
+        background: -o-linear-gradient(left, rgba(7,151,187,1) 0%, rgba(7,151,187,1) 13%, rgba(6,123,162,1) 57%, rgba(6,123,162,1) 75%, rgba(6,123,162,1) 100%);
+        background: -ms-linear-gradient(left, rgba(7,151,187,1) 0%, rgba(7,151,187,1) 13%, rgba(6,123,162,1) 57%, rgba(6,123,162,1) 75%, rgba(6,123,162,1) 100%);
+        background: linear-gradient(to right, rgba(7,151,187,1) 0%, rgba(7,151,187,1) 13%, rgba(6,123,162,1) 57%, rgba(6,123,162,1) 75%, rgba(6,123,162,1) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0797bb', endColorstr='#067ba2', GradientType=1 );
+    opacity: .90;
+    
+    }
+
+    .main-section{
+
+        left: 90px;
+        margin:0 auto;
+        margin-top: 10%;
+        padding: 10;
+    }
+    
+    .user-img {
+    
+        margin-top: -10px;
+        margin-bottom: 50px;
+    
+    
+    }
+    
+    .user-img img {
+    
+        width: 110px;
+        height: 110px;
+    
+    
+    }
